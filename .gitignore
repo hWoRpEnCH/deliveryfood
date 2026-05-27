@@ -1,0 +1,4 @@
+_bolt-import/
+node_modules
+.env
+.env.local
